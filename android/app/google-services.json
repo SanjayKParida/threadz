@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706750972572",
+    "project_id": "threadz-e46dc",
+    "storage_bucket": "threadz-e46dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706750972572:android:10ee3bb50c6900cc336359",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1YJKCbWcOSdVgxIBeDjkabrwMLqmuV1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
